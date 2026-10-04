@@ -1,9 +1,5 @@
 ### Hey there, I'm Maksim 👋
 
-an Android developer 🌱
-
-
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"></code>
